@@ -1,3 +1,3 @@
 # Smocss
 
-Smocss is smooth CSS animation library.
+Smocss is a smooth CSS animation library.
